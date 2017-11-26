@@ -1,6 +1,6 @@
 {
   "name": "express-uuap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cas Client for Baidu.Inc uuap(Cas Server)",
   "main": "index.js",
   "directories": {
